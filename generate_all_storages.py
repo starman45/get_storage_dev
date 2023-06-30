@@ -52,7 +52,7 @@ def execute_bash_script(db_name):
 
 def get_info(list_db):
     rds_factor = 0.115
-    ec2_factor = 0.1
+    ec2_factor = 0.16
     all_sizes = []
     all_prices = []
 
